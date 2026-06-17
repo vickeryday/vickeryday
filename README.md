@@ -1,4 +1,22 @@
-## Hi there 👋
+# THS-Community
+
+![](https://www.ths-greifswald.de/wp-content/uploads/2019/01/Design-Logo-THS-deutsch-271.png)
+
+## About
+The goal of this set of repositories is to collect tips, tricks and code examples for [E-PIX](https://ths-greifswald.de/e-pix), [gPAS](https://ths-greifswald.de/gpas) and [gICS](https://ths-greifswald.de/gics) from the community in one place and to promote the exchange of experiences among our users.
+The initial idea for this GitHub exchange came from colleagues at Siemens Healthineers and LMU Munich. Many thanks :)
+        
+## Repositories   
+Separate [Repositories](https://github.com/ths-community?tab=repositories) for individual topics and community-projects can easily be created after short consultation with us.
+
+### Ongoing community-work for E-PIX, gPAS, gICS includes 
+- Kubernetes-scripts for E-PIX, gPAS, gICS 
+- Podman-scripts for gICS as an alternative for Docker
+- NodeJs-based Webfrontend for E-PIX, gPAS, gICS 
+- *[Redcap-Integration based on SOAP for E-PIX and gPAS (external repo)](https://github.com/cerhardt/redcap-pseudo-service)*
+- Redcap-Integration based on REST for [TTP-Dispatcher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4467617/)
+- E-PIX example configurations
+
 
 <!--
 **vickeryday/vickeryday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
